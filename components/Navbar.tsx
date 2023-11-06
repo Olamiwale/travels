@@ -64,7 +64,7 @@ export default function Navbar() {
         <ul
           className={
             nav
-              ? "absolute right-0 px-6 p-4 bg-green-300 w-[200px] top-[50px] flex flex-col gap-10 text-[15px] lg:hidden"
+              ? "absolute right-0 px-6 p-4 bg-green-300 w-[200px] top-[60px] flex flex-col gap-10 text-[15px] lg:hidden"
               : "hidden"
           }
         >
